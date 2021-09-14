@@ -2,8 +2,8 @@
 // --------------------------------------- Soal 1 Palindrome ---------------------------------------
 void main() {
   List? data = [
-    'radar coba',
-    'malam',
+    'radar',
+    'siang',
     'kasur ini rusak',
     'ibu ratna antar ubi',
     'malas',
